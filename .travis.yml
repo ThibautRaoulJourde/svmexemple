@@ -20,4 +20,4 @@ r_packages:
   - kableExtra
   
 script:
-  - R -f deploy.R
+  - R -f Deploy.R
